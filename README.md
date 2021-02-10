@@ -22,6 +22,8 @@ Need to alter code in deepfake_bot_discord/twitter.js and driving_code/driving_c
 
 Download vox-cpk.pth.tar and place it in the first-order-model folder.
 
+inside the JS folder, Put twitter keys in a file named config.js and put discord keys in a file named discord_config.json
+
 Probably better ways to find it, but here is a source: https://www.kaggle.com/xiaoxxiao/damedane-vox-data
 
 Have fun
